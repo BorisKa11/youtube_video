@@ -1,0 +1,36 @@
+[Wed Jun 27 22:17:27.488391 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP Warning:  require(N:\\SERVER\\data\\docs\\tube\\vendor\\composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php on line 66
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP Stack trace:
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   1. {main}() N:\\SERVER\\data\\docs\\tube\\public\\index.php:0
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   2. require() N:\\SERVER\\data\\docs\\tube\\public\\index.php:24
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   3. ComposerAutoloaderInit397ccd9ae6d32abf87fcb5dcc970c1d5::getLoader() N:\\SERVER\\data\\docs\\tube\\vendor\\autoload.php:7
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   4. composerRequire397ccd9ae6d32abf87fcb5dcc970c1d5() N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php:56
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP Fatal error:  require(): Failed opening required 'N:\\SERVER\\data\\docs\\tube\\vendor\\composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.;C:\\php\\pear') in N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php on line 66
+[Wed Jun 27 22:17:27.501392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP Stack trace:
+[Wed Jun 27 22:17:27.502392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   1. {main}() N:\\SERVER\\data\\docs\\tube\\public\\index.php:0
+[Wed Jun 27 22:17:27.502392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   2. require() N:\\SERVER\\data\\docs\\tube\\public\\index.php:24
+[Wed Jun 27 22:17:27.502392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   3. ComposerAutoloaderInit397ccd9ae6d32abf87fcb5dcc970c1d5::getLoader() N:\\SERVER\\data\\docs\\tube\\vendor\\autoload.php:7
+[Wed Jun 27 22:17:27.502392 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52877] PHP   4. composerRequire397ccd9ae6d32abf87fcb5dcc970c1d5() N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php:56
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Warning:  require(N:\\SERVER\\data\\docs\\tube\\vendor\\composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php on line 66
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Stack trace:
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   1. {main}() N:\\SERVER\\data\\docs\\tube\\public\\index.php:0
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   2. require() N:\\SERVER\\data\\docs\\tube\\public\\index.php:24
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   3. ComposerAutoloaderInit397ccd9ae6d32abf87fcb5dcc970c1d5::getLoader() N:\\SERVER\\data\\docs\\tube\\vendor\\autoload.php:7
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   4. composerRequire397ccd9ae6d32abf87fcb5dcc970c1d5() N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php:56
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Fatal error:  require(): Failed opening required 'N:\\SERVER\\data\\docs\\tube\\vendor\\composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.;C:\\php\\pear') in N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php on line 66
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Stack trace:
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   1. {main}() N:\\SERVER\\data\\docs\\tube\\public\\index.php:0
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   2. require() N:\\SERVER\\data\\docs\\tube\\public\\index.php:24
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   3. ComposerAutoloaderInit397ccd9ae6d32abf87fcb5dcc970c1d5::getLoader() N:\\SERVER\\data\\docs\\tube\\vendor\\autoload.php:7
+[Wed Jun 27 22:17:42.528251 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   4. composerRequire397ccd9ae6d32abf87fcb5dcc970c1d5() N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php:56
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Warning:  require(N:\\SERVER\\data\\docs\\tube\\vendor\\composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php on line 66
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Stack trace:
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   1. {main}() N:\\SERVER\\data\\docs\\tube\\public\\index.php:0
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   2. require() N:\\SERVER\\data\\docs\\tube\\public\\index.php:24
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   3. ComposerAutoloaderInit397ccd9ae6d32abf87fcb5dcc970c1d5::getLoader() N:\\SERVER\\data\\docs\\tube\\vendor\\autoload.php:7
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   4. composerRequire397ccd9ae6d32abf87fcb5dcc970c1d5() N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php:56
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Fatal error:  require(): Failed opening required 'N:\\SERVER\\data\\docs\\tube\\vendor\\composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.;C:\\php\\pear') in N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php on line 66
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP Stack trace:
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   1. {main}() N:\\SERVER\\data\\docs\\tube\\public\\index.php:0
+[Wed Jun 27 22:17:43.998335 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   2. require() N:\\SERVER\\data\\docs\\tube\\public\\index.php:24
+[Wed Jun 27 22:17:43.999336 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   3. ComposerAutoloaderInit397ccd9ae6d32abf87fcb5dcc970c1d5::getLoader() N:\\SERVER\\data\\docs\\tube\\vendor\\autoload.php:7
+[Wed Jun 27 22:17:43.999336 2018] [php7:notice] [pid 2336:tid 1120] [client 127.0.0.1:52882] PHP   4. composerRequire397ccd9ae6d32abf87fcb5dcc970c1d5() N:\\SERVER\\data\\docs\\tube\\vendor\\composer\\autoload_real.php:56
